@@ -3,8 +3,11 @@
 #### Base Goerli
 
 Explorer: https://goerli-explorer.base.org
+
 Public RPC: https://goerli.base.org
+
 Chain ID: 84531
+
 Faucets: https://docs.base.org/tools/network-faucets
 
 (I used both QuickNode and Coinbase Wallet faucet for a total of .125Eth, which should be enough)
